@@ -23,5 +23,11 @@ iv)For finding the links on the webpage to the same domain we have used Beautifu
  
  Steps invloves in completing this task with screenshot:
  
- 1) 
+ 1) Installing of bs4
+ ![](pipscreen.PNG)
+ 2)Successful insatllation of bs4
+ ![](pip2.PNG)
+ 3)Now we importing libraries in our code-
  ![](lib.PNG)
+ 4)In this step we are checking the validity of the URL
+ 
