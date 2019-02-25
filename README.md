@@ -29,7 +29,7 @@ iv)For finding the links on the webpage to the same domain we have used Beautifu
  2)Successful insatllation of bs4
  ![](pip2.PNG)
  
- 3)Now we importing libraries in our code-
+ 3)Now we importing libraries in our code
  ![](lib.PNG)
  
  4)In this step we are checking the validity of the URL.
