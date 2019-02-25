@@ -12,4 +12,4 @@ i)Now we first check for the valid URL.
 ii)We also need to make sure that while requesting for a web page , we don't get errors and if we get then display error messages efficiently(HTTPError,URLError,etc..)
 iii)For finding the size of webpage in bytes ,we use sys module in python and then by .getsizeof() we find the size of the webpage in text format.
 iv)For finding the links on the webpage to the same domain we have used BeautifulSoup ,a python library ,to find all <a> tags that have links to the same domain ,ie, href="/" or href="same webpage url " and count the result in c (we could also have used str.count approach)
-  ![](
+  ![](lib.PNG)
